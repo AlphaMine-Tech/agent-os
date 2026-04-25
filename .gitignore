@@ -1,0 +1,21 @@
+# Sensitive files that should never be committed
+.env
+*.key
+*.pem
+*.p12
+credentials.*
+secrets.*
+
+# Snapshots (may contain large binary data)
+snapshots/*.tgz
+snapshots/*.tar.gz
+snapshots/*.patch
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
