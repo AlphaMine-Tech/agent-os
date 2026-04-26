@@ -316,7 +316,7 @@ It's intentionally simple: just markdown files in a directory. No database, no A
     </td>
     <td align="center">
       <a href="https://claude.ai">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Anthropic_logo.svg/1200px-Anthropic_logo.svg.png" width="80px;" alt="Lord Beerus"/><br />
+        <img src="assets/lord-beerus.png" width="80px;" alt="Lord Beerus"/><br />
         <sub><b>Lord Beerus</b></sub>
       </a><br />
       <sub>🤖 AI Co-Author (Claude Opus)</sub>
@@ -334,8 +334,8 @@ If agent-os saved you time or inspired your setup, consider leaving a tip:
 |---------|---------|
 | ₿ **Bitcoin** | `bc1q52ceav67rp8mxa3ptany2l59kfdat6q7ne86ck` |
 | ⟠ **Ethereum** | `0x8A69d2C99b8a537acC7Da124E00cf38d876815D4` |
-| 🟣 **Quai Network** | `0x003078b752c0cabF8bbf2b956711DfA44864BA6C` |
-| 💎 **Kaspa** | `kaspa:qypcrq3zu0ufvvg8ch5spclu2nwpjywl5rsmcjrxs1u34dwyuh7yhyg5268s8d4` |
+| 🔴 **Quai Network** | `0x003078b752c0cabF8bbf2b956711DfA44864BA6C` |
+| 🟢 **Kaspa** | `kaspa:qypcrq3zu0ufvvg8ch5spclu2nwpjywl5rsmcjrxs1u34dwyuh7yhyg5268s8d4` |
 
 ---
 
